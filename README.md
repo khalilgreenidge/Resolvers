@@ -1,15 +1,17 @@
 # Resolvers 🚀
 
-Welcome to Resolvers! I built this project to assist with learning GraphQL using [this course](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
+Welcome to Resolvers! I built this project to assist with learning GraphQL using [this course](https://odyssey.apollographql.com/lift-off-part2). This project implements a resolver function that connects to a [REST api](https://odyssey-lift-off-rest-api.herokuapp.com).
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+
+![alt](client/public/img.png)
 
 ## How to use this repo
 
 There are 2 main folders:
 
-- `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
+- `server`: The starting point of my GraphQL server.
+- `client`: The starting point of my React application.
 
 To get started:
 
